@@ -1,0 +1,52 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Wed Nov 23 08:28:33 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x00004a
+    .config_300001_MAIN.O    romdata   0x300001    program   0x000001
+    .config_300002_MAIN.O    romdata   0x300002    program   0x000001
+    .config_300003_MAIN.O    romdata   0x300003    program   0x000001
+    .config_300005_MAIN.O    romdata   0x300005    program   0x000001
+    .config_300006_MAIN.O    romdata   0x300006    program   0x000001
+    .config_300008_MAIN.O    romdata   0x300008    program   0x000001
+    .config_300009_MAIN.O    romdata   0x300009    program   0x000001
+    .config_30000A_MAIN.O    romdata   0x30000a    program   0x000001
+    .config_30000B_MAIN.O    romdata   0x30000b    program   0x000001
+    .config_30000C_MAIN.O    romdata   0x30000c    program   0x000001
+    .config_30000D_MAIN.O    romdata   0x30000d    program   0x000001
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000049      
+                            0x300001    0x300003      
+                            0x300005    0x300006      
+                            0x300008    0x30000d      
+            85 out of 33048 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000000    program     static F:\Micro\2022.1\Lab\Aula 3\main.asm
+                     LOOP   0x000022    program     static F:\Micro\2022.1\Lab\Aula 3\main.asm
+                      SUB   0x00003e    program     static F:\Micro\2022.1\Lab\Aula 3\main.asm
+                      SUM   0x000032    program     static F:\Micro\2022.1\Lab\Aula 3\main.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000000    program     static F:\Micro\2022.1\Lab\Aula 3\main.asm
+                     LOOP   0x000022    program     static F:\Micro\2022.1\Lab\Aula 3\main.asm
+                      SUM   0x000032    program     static F:\Micro\2022.1\Lab\Aula 3\main.asm
+                      SUB   0x00003e    program     static F:\Micro\2022.1\Lab\Aula 3\main.asm
+
+
