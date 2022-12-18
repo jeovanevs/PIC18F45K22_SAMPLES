@@ -1,2 +1,2 @@
-# PIC18F45K22_asm_SAMPLES
+# PIC18F45K22_SAMPLES
 Exemplos de códigos para o PIC18F45K22
